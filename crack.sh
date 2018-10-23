@@ -222,3 +222,4 @@ else
 fi
 }
 
+main
